@@ -1,4 +1,4 @@
-#CS 31
+# CS 31
 These are my solutions to the seven projects assigned in CS 31 in Fall of 2018. 
 
 | Project | Score |
